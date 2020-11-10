@@ -4,8 +4,5 @@ print('what the hell is happening!')
 
 print('hleoo')
 
-print("whats up")
+print("byebye")
 
-print("is this sotong")
-
-print("123456")
