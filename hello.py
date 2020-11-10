@@ -7,3 +7,5 @@ print('i also dunno leh')
 print("are you doing anything")
 
 print("hello its me")
+
+print("how you doing")
