@@ -6,3 +6,5 @@ print('hleoo')
 
 print("byebye")
 
+print("123456")
+
